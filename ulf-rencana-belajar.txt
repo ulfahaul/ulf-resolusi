@@ -1,2 +1,3 @@
 RENCANA BELAJAR PEMROGRAMAN:
 - Belajar Frontend
+- Belajar membuat token login pada backend
